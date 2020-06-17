@@ -1,7 +1,7 @@
 # Market-Basket-Analysis
 This project is to practice Market Basket Analysis, OOP, and Recommendation Systems with grocery transactions. I work in a jupyter notebook with the use of Python for my projects.
 
-### Project 1. Market Basket Analysis Intro
+### Project 1. An Introduction to Market Basket Analysis
 
 File Name: MBA_Introduction.ipynb \
 Data File: GroceryStoreDataSet.csv
